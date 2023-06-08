@@ -5,3 +5,4 @@ Graphical representation of information and data
 Graph, Chart, and Map make it easier to understand the patterns in data
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+Happy Learning. :)
